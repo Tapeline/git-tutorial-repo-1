@@ -1,4 +1,5 @@
 def div():
+    """Деление"""
     a = int(input())
     b = int(input())
     if b == 0:
